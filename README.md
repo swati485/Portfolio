@@ -58,6 +58,7 @@ To run this project locally, follow these steps:
 ## ✧ About Me
 
 **Swati Sharma**
+
 Full Stack Developer
 
 I'm an MCA student who came from a non-CS (B.Sc. PCM) background — programming was completely new to me when I started, and every project since has made me a more confident developer. I care most about software when it's automating real infrastructure or catching health issues early.
